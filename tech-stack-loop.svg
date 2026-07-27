@@ -1,0 +1,44 @@
+<svg width="100%" height="100" viewBox="0 0 700 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="loopClip">
+      <rect x="0" y="0" width="700" height="100" />
+    </clipPath>
+  </defs>
+
+  <rect width="700" height="100" fill="#0d1117"/>
+
+  <g clip-path="url(#loopClip)">
+    <g>
+      <!-- Row 1 -->
+      <g transform="translate(0,20)">
+        <image href="https://cdn.simpleicons.org/react/61DAFB" x="0"   y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/tailwindcss/38BDF8" x="100" y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/supabase/3ECF8E" x="200" y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/javascript/F7DF1E" x="300" y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/postgresql/4169E1" x="400" y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/nodedotjs/339933" x="500" y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/git/F05032" x="600" y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/visualstudiocode/007ACC" x="700" y="0" width="60" height="60"/>
+      </g>
+      <!-- Row 2 (duplicate, seamless continuation) -->
+      <g transform="translate(800,20)">
+        <image href="https://cdn.simpleicons.org/react/61DAFB" x="0"   y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/tailwindcss/38BDF8" x="100" y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/supabase/3ECF8E" x="200" y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/javascript/F7DF1E" x="300" y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/postgresql/4169E1" x="400" y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/nodedotjs/339933" x="500" y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/git/F05032" x="600" y="0" width="60" height="60"/>
+        <image href="https://cdn.simpleicons.org/visualstudiocode/007ACC" x="700" y="0" width="60" height="60"/>
+      </g>
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="-800 0"
+        dur="14s"
+        repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
