@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a1a&height=180&text=JEFF&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=Web%20Developer%20%7C%20Design%20%2B%20Function&descAlignY=78&descSize=18&descColor=8b949e" width="100%"/>
 <br>
-<a href="https://www.linkedin.com/in/YOUR-USERNAME">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/jeffbonina/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://github.com/jeepwashington22">GitHub</a> &nbsp;·&nbsp;
-<a href="mailto:your@email.com">Email</a> &nbsp;·&nbsp;
+<a href="mailto:jeffreybonina05@gmail.com">Email</a> &nbsp;·&nbsp;
 <a href="https://your-site.com">Portfolio</a>
 </div>
 <br>
