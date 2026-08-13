@@ -9,6 +9,14 @@
 
 <br>
 
+<div align="center">
+
+### Web Developer &nbsp;|&nbsp; App Developer &nbsp;|&nbsp; Designer
+
+</div>
+
+<br>
+
 ## About
 
 Web developer focused on building innovative, reliable digital solutions. I work across the full stack — from clean, intuitive interfaces to the logic and data systems that keep them running correctly under real-world use.
@@ -27,11 +35,9 @@ I care about clarity over clutter, and about building things that actually hold 
 
 ## Focus
 
-```
-role        Web Developer
-interests   Full-stack systems, clean UI, data-driven apps
-approach    Build for the user first — clarity, reliability, convenience
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=8B949E&background=0D111700&center=false&vCenter=true&multiline=true&width=600&height=150&lines=%7B;++%22role%22%3A+%22Web+Developer%22%2C;++%22interests%22%3A+%5B%22full-stack+systems%22%2C+%22clean+UI%22%2C+%22data-driven+apps%22%5D%2C;++%22approach%22%3A+%22build+for+the+user+first%22;%7D" alt="focus"/>
+</div>
 
 <br>
 
@@ -44,6 +50,14 @@ approach    Build for the user first — clarity, reliability, convenience
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeepwashington22&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff"/>
+</div>
+
+<br>
+
+## Commit activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/jeepwashington22/jeepwashington22/output/github-contribution-grid-snake.svg" alt="commit snake animation" width="100%"/>
 </div>
 
 <br>
