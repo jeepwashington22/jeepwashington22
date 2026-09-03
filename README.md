@@ -42,7 +42,4 @@ I care about clarity over clutter, and about building things that actually hold 
 <div align="center">
 <sub>Built for clarity, not decoration.</sub>
 </div>
- 
 
-
-modify this i dont like the design
