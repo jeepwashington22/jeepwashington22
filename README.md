@@ -5,53 +5,54 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jeffbonina/"><b>LinkedIn</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/jeepwashington22"><b>GitHub</b></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:jeffreybonina05@gmail.com"><b>Email</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://your-site.com"><b>Portfolio</b></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=E6EDF3&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Jeff+Bonina+%F0%9F%91%8B;I'm+a+Web+Developer+%26+Frontend+Engineer;I+build+clean%2C+reliable+full-stack+systems;I+design+for+the+user+first" alt="Typing intro"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>WEB DEVELOPER &nbsp;&nbsp;/&nbsp;&nbsp; APP DEVELOPER &nbsp;&nbsp;/&nbsp;&nbsp; DESIGNER</sub>
+  <a href="https://www.linkedin.com/in/jeffbonina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/jeepwashington22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:jeffreybonina05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://your-site.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 
-<br/><br/>
+<br/>
 
-## About
+<div align="center">
+  <sub>WEB DEVELOPER &nbsp;·&nbsp; APP DEVELOPER &nbsp;·&nbsp; DESIGNER</sub>
+</div>
 
-Web developer focused on building reliable digital systems — from clean, intuitive interfaces to the logic and data layers that keep them correct under real-world use.
+<br/>
+
+---
+
+<br/>
+
+## ✦ About
+
+I'm a web developer focused on building reliable digital systems: clean, intuitive interfaces backed by logic and data layers that stay correct under real-world use.
 
 I value clarity over clutter, and I build things that hold up once real people start using them.
 
 <br/>
 
-## Stack
+## ✦ Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,nodejs,express,postgres,supabase,tailwind,redis,figma,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,nodejs,express,postgres,supabase,tailwind,redis,figma,git&perline=12" />
 </div>
 
 <br/>
 
-## Focus
+## ✦ Stats
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=8B949E&background=0D111700&center=false&vCenter=true&multiline=true&width=600&height=150&lines=%7B;++%22role%22%3A+%22Web+Developer%22%2C;++%22interests%22%3A+%5B%22full-stack+systems%22%2C+%22clean+UI%22%2C+%22data-driven+apps%22%5D%2C;++%22approach%22%3A+%22build+for+the+user+first%22;%7D" alt="focus"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jeepwashington22&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jeepwashington22&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 </div>
 
 <br/>
-
-## Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jeepwashington22&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff"/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeepwashington22&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeepwashington22&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" width="97%"/>
@@ -59,13 +60,15 @@ I value clarity over clutter, and I build things that hold up once real people s
 
 <br/>
 
-## Commit Activity
+## ✦ Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jeepwashington22/jeepwashington22/output/github-contribution-grid-snake.svg" alt="commit snake animation" width="100%"/>
 </div>
 
 <br/>
+
+---
 
 <div align="center">
   <sub>Built for clarity, not decoration.</sub>
