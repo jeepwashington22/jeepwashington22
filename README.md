@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./banner.jpg" alt="Jeff Bonina banner" width="100%"/>
-</div>
+
 
 <div align="center">
   <picture>
