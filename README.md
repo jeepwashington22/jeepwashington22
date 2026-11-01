@@ -26,8 +26,8 @@ data and logic layers that stay correct under real-world use.
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,postgres,supabase,redis,git&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,postgres,supabase,redis,git&theme=light" alt="Tech stack"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,react,ts,flutter,c,cs,py,supabase,figma&theme=dark">
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,ts,flutter,c,cs,py,supabase,figma&theme=light" alt="Tech stack"/>
 </picture>
 
 </div>
